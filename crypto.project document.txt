@@ -1,0 +1,40 @@
+      1.Introduction
+
+      o	Project Title: Crptocurrency Dashboard
+
+      o	Team Members: M.Kalpana
+                      T.Jeevablessy
+                      M.Ramya
+                      B.Priyadharshini
+                      D.Divyabharathi
+
+      2.Project Overview
+
+        Purpose:To verify transactions and can be used for purchases or as an investment.
+ 
+	Features: Cryptocurrency, sometimes called crypto-currency or crypto, is any form 
+                  of currency that exists digitally or virtually and uses cryptography to 
+                  secure transactions. Cryptocurrencies don't have a central issuing or regulating 
+                  authority, instead using a decentralized system to record transactions and issue new units.
+
+      3.Architecture
+
+	Component Structure: chart components are essential in a crypto dashboard. A dashboard 
+                             can basically allocate any type of chart. In this tutorial, we will
+                             use the DataGrid component, XY series, and Heatmaps.
+
+	State Management: For state management in a cryptocurrency dashboard project, consider using
+                          React Context API or Redux for centralized state management to handle data
+                          flow and ensure smooth updates across components.
+
+	Routing: Dash or Streamlit for creating the web application, and Plotly for interactive visualizations. 
+                 Here's a breakdown of the libraries and their roles:
+                 Dash: A framework built on top of Flask, React.js, and Plotly.js for building web
+                       applications in Python, especially for data visualization. Dash is suitable for more
+                       complex dashboards and applications. 
+            Streamlit: Another popular framework for building web apps in Python, especially for data science
+                       and machine learning projects. Streamlit is known for its ease of use and simplicity. 
+               Plotly: A library for creating interactive and high-quality visualizations in Python, R, 
+                       JavaScript, and other languages. It's commonly used with Dash and Streamlit for charting
+                       and graphing data. 
+
